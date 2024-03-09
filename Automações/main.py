@@ -24,8 +24,6 @@ pyautogui.write(link)
 #entrar no link
 pyautogui.press("enter")
 
-
-
 # 2: fazer login
 # 3: importar a base de dados
 # 4: cadastrar 1 produto
